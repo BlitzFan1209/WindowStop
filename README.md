@@ -1,1 +1,2 @@
-if game dosnt work tell me
+If game doesnt work tell me.
+
